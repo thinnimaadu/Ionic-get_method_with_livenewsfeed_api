@@ -16,6 +16,7 @@ const routes: Routes = [
         loadChildren: () => import('../indianews/indianews.module').then(m => m.IndianewsPageModule)
       },
       // {
+        // w
       //   path: 'tab2',
       //   loadChildren: () => import('../tab2/tab2.module').then(m => m.Tab2PageModule)
       // },
